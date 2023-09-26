@@ -17,10 +17,10 @@ You can check the web version of this same system [here](https://github.com/imSh
     </tr> 
     <tr>
         <td>
-            <img src="assets/gifs/App_Recording_1.gif" alt="Image" width="860" height="700">
+            <img src="assets/" alt="Image" width="860" height="700">
         </td>
         <td>
-            <img src="assets/gifs/App_Recording_2.gif" alt="Image" width="860" height="700">
+            <img src="assets/" alt="Image" width="860" height="700">
         </td>
     </tr> 
 </table>
